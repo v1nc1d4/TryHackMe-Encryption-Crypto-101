@@ -20,7 +20,7 @@ Created by :: https://tryhackme.com/p/NinjaJc01
      
      passphrase
      
-## [Task 3] Why is Encryption important? 
+## [Task 3] Why is Encryption important?
 
 ### #1 What does SSH stand for?
      
